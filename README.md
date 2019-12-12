@@ -44,3 +44,9 @@ Sometimes you want to write stuff like `wc -c ./my_file.txt | calc "$ / 200"`, b
 Sure, you could use `awk` and you might consider it simple enough to use.
 
 But I didn't want to **think**, that's what my computer is supposed to do.
+
+## FAQ
+
+>Your script is dumb/buggy/insecure.
+
+Yes.
