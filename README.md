@@ -12,6 +12,10 @@ Write the expression as individual arguments:
 ```
 $> calc 2 + 2
 4
+$> calc 4 - 1
+3
+$> echo "Quickmafs"
+Quickmafs
 ```
 
 or as a string:
