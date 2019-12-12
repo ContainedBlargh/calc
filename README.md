@@ -31,7 +31,7 @@ $> echo "2" | calc "$/2"
 or include whole expressions from stdin using `$` in combination with `-w` (for `whole`).
 
 ```
-$> echo "(2 + 2)" | calc "$/2"
+$> echo "(2 + 2)" | calc -w "$/2"
 2
 ```
 
