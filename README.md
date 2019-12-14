@@ -1,6 +1,6 @@
 # calc
 
-A Python script command-line calculator use.
+A Python script command-line calculator.
 Functionality is restricted to the regular python math package and a subset of numpy.
 
 ## Usage
